@@ -29,7 +29,7 @@ body {
 	font-size: 2rem;
 }
 
-.main {
+.js .main {
 	opacity: 0;
 	transform: translate(0,0);
 	will-change: opacity, transform;
@@ -53,6 +53,10 @@ body {
 	animation: fade-in .8s linear forwards 0s;
 }
 
+.link-back {
+	display: inline-block;
+	padding-top: 0.4rem;
+}
 
 .data-link {
 	span {
@@ -257,15 +261,15 @@ img {
 }
 
 
-.no-js .media-box {
+.js .media-box {
 	opacity: 1;
 }
 
-.no-js img.lazy {
+.js img.lazy {
 	display: none;
 }
 
-.no-js noscript {
+.js noscript {
 	height: 100%;
 }
 

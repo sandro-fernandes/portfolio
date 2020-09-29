@@ -18,12 +18,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="/favicon.png">
     <link rel="apple-touch-icon" href="/app-icon.png">
-    <script>(function(H) { H.className = H.className.replace(/\bno-js\b/, 'js') })(document.documentElement)</script>
     <script>
-      document.addEventListener("DOMContentLoaded", function(event) {
-         document.getElementById('main').classList.add("fade-in");
-         console.log("DOM completamente carregado e analisado");
-      });
+        (function(H) { H.className = H.className.replace(/\bno-js\b/, 'js') })(document.documentElement)
+        document.addEventListener("DOMContentLoaded", function(event) {
+            document.getElementById('main').classList.add("fade-in");
+            console.log("DOM fully loaded");
+        });
     </script>
     <link rel="stylesheet" href="css/style.css">
     <style>
@@ -47,7 +47,7 @@
                 <div class="grid-item project">
                     <a href="/projects/siga-system" class="project-link">
                       <div class="media-box">
-                          <img src="assets/projects/siga-system/siga-system-home.jpg" class="" alt="">
+                          <img src="assets/projects/siga-system/siga-system-home-optim.jpg" class="" alt="">
                       </div>
                       <h2 class="project-title data-link">
                         <span data-hover="SIGA System.">SIGA System.</span>
@@ -57,7 +57,7 @@
                 <div class="grid-item project">
                     <a href="/projects/tecnico-mobile" class="project-link" data-hover="Técnico Mobile.">
                         <div class="media-box">
-                            <img src="assets/projects/tecnico-mobile/tecnico-mobile-home.jpg" class="" alt="">
+                            <img src="assets/projects/tecnico-mobile/tecnico-mobile-home-optim.jpg" class="" alt="">
                         </div>
                         <h2 class="project-title data-link">
                           <span data-hover="Técnico Mobile.">Técnico Mobile.</span>
@@ -67,7 +67,7 @@
                 <div class="grid-item project">
                   <a href="/projects/university-website" class="project-link">
                         <div class="media-box">
-                            <img src="assets/projects/university-website/university-website-home.jpg" class="" alt="">
+                            <img src="assets/projects/university-website/university-website-home-optim.jpg" class="" alt="">
                         </div>
                         <h2 class="project-title data-link">
                           <span data-hover="University Website.">University Website.</span>
@@ -161,8 +161,6 @@
 
     </main>
 
-    <script>
-    </script>
 </body>
 
 </html>

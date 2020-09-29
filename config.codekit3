@@ -9,9 +9,36 @@
 	],
 "creatorBuild": "32001",
 "files": {
+	"/404.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/404.html",
+		"oF": 0
+		},
+	"/404.min.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/404.min.html",
+		"oF": 0
+		},
+	"/app-icon.png": {
+		"ft": 32768,
+		"iS": 14825,
+		"oA": 0,
+		"oAP": "/app-icon.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/projects/connect/connect-1.jpg": {
 		"ft": 16384,
-		"iS": 381064,
+		"iS": 293696,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/projects/connect/connect-1.jpg",
@@ -64,17 +91,6 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/assets/projects/connect/connect-home.png": {
-		"ft": 32768,
-		"iS": 307052,
-		"oA": 0,
-		"oAP": "/assets/projects/connect/connect-home.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/assets/projects/siga-system/siga-system-1.jpg": {
 		"ft": 16384,
 		"iS": 514629,
@@ -84,17 +100,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"/assets/projects/siga-system/siga-system-1.png": {
-		"ft": 32768,
-		"iS": 453555,
-		"oA": 0,
-		"oAP": "/assets/projects/siga-system/siga-system-1.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
 		"q": 100
 		},
 	"/assets/projects/siga-system/siga-system-2.jpg": {
@@ -108,17 +113,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/projects/siga-system/siga-system-2.png": {
-		"ft": 32768,
-		"iS": 550492,
-		"oA": 0,
-		"oAP": "/assets/projects/siga-system/.siga-system-2~imageoptim.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/assets/projects/siga-system/siga-system-3.jpg": {
 		"ft": 16384,
 		"iS": 284691,
@@ -128,17 +122,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"/assets/projects/siga-system/siga-system-3.png": {
-		"ft": 32768,
-		"iS": 528223,
-		"oA": 0,
-		"oAP": "/assets/projects/siga-system/siga-system-3.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
 		"q": 100
 		},
 	"/assets/projects/siga-system/siga-system-4.jpg": {
@@ -152,15 +135,15 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/assets/projects/siga-system/siga-system-4.png": {
-		"ft": 32768,
-		"iS": 283733,
+	"/assets/projects/siga-system/siga-system-hero-optim.jpg": {
+		"ft": 16384,
+		"iS": 783872,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/projects/siga-system/siga-system-4.png",
+		"oAP": "/assets/projects/siga-system/siga-system-hero-optim.jpg",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
-		"oT": 1,
 		"q": 100
 		},
 	"/assets/projects/siga-system/siga-system-hero.jpg": {
@@ -174,15 +157,15 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/projects/siga-system/siga-system-hero.png": {
-		"ft": 32768,
-		"iS": 2438483,
+	"/assets/projects/siga-system/siga-system-home-optim.jpg": {
+		"ft": 16384,
+		"iS": 387727,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/projects/siga-system/siga-system-hero.png",
+		"oAP": "/assets/projects/siga-system/siga-system-home-optim.jpg",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
-		"oT": 1,
 		"q": 100
 		},
 	"/assets/projects/siga-system/siga-system-home.jpg": {
@@ -196,17 +179,6 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/assets/projects/siga-system/siga-system-home.png": {
-		"ft": 32768,
-		"iS": 359370,
-		"oA": 0,
-		"oAP": "/assets/projects/siga-system/siga-system-home.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/assets/projects/tecnico-mobile/tecnico-mobile-1.jpg": {
 		"ft": 16384,
 		"iS": 91007,
@@ -216,17 +188,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"/assets/projects/tecnico-mobile/tecnico-mobile-1.png": {
-		"ft": 32768,
-		"iS": 539923,
-		"oA": 0,
-		"oAP": "/assets/projects/tecnico-mobile/tecnico-mobile-1.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
 		"q": 100
 		},
 	"/assets/projects/tecnico-mobile/tecnico-mobile-2.jpg": {
@@ -240,17 +201,6 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/assets/projects/tecnico-mobile/tecnico-mobile-2.png": {
-		"ft": 32768,
-		"iS": 612897,
-		"oA": 0,
-		"oAP": "/assets/projects/tecnico-mobile/tecnico-mobile-2.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/assets/projects/tecnico-mobile/tecnico-mobile-3.jpg": {
 		"ft": 16384,
 		"iS": 154375,
@@ -260,17 +210,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"/assets/projects/tecnico-mobile/tecnico-mobile-3.png": {
-		"ft": 32768,
-		"iS": 1094053,
-		"oA": 0,
-		"oAP": "/assets/projects/tecnico-mobile/tecnico-mobile-3.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
 		"q": 100
 		},
 	"/assets/projects/tecnico-mobile/tecnico-mobile-4.jpg": {
@@ -284,17 +223,6 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/assets/projects/tecnico-mobile/tecnico-mobile-4.png": {
-		"ft": 32768,
-		"iS": 425045,
-		"oA": 0,
-		"oAP": "/assets/projects/tecnico-mobile/tecnico-mobile-4.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/assets/projects/tecnico-mobile/tecnico-mobile-5.jpg": {
 		"ft": 16384,
 		"iS": 365997,
@@ -304,17 +232,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"/assets/projects/tecnico-mobile/tecnico-mobile-5.png": {
-		"ft": 32768,
-		"iS": 252892,
-		"oA": 0,
-		"oAP": "/assets/projects/tecnico-mobile/tecnico-mobile-5.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
 		"q": 100
 		},
 	"/assets/projects/tecnico-mobile/tecnico-mobile-6.jpg": {
@@ -328,15 +245,15 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/assets/projects/tecnico-mobile/tecnico-mobile-6.png": {
-		"ft": 32768,
-		"iS": 403325,
+	"/assets/projects/tecnico-mobile/tecnico-mobile-hero-optim.jpg": {
+		"ft": 16384,
+		"iS": 567431,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/projects/tecnico-mobile/tecnico-mobile-6.png",
+		"oAP": "/assets/projects/tecnico-mobile/tecnico-mobile-hero-optim.jpg",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/assets/projects/tecnico-mobile/tecnico-mobile-hero.jpg": {
@@ -350,15 +267,15 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/projects/tecnico-mobile/tecnico-mobile-hero.png": {
-		"ft": 32768,
-		"iS": 2912523,
+	"/assets/projects/tecnico-mobile/tecnico-mobile-home-optim.jpg": {
+		"ft": 16384,
+		"iS": 453156,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/projects/tecnico-mobile/tecnico-mobile-hero.png",
+		"oAP": "/assets/projects/tecnico-mobile/tecnico-mobile-home-optim.jpg",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
-		"oT": 1,
 		"q": 100
 		},
 	"/assets/projects/tecnico-mobile/tecnico-mobile-home.jpg": {
@@ -372,17 +289,6 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/assets/projects/tecnico-mobile/tecnico-mobile-home.png": {
-		"ft": 32768,
-		"iS": 1257437,
-		"oA": 0,
-		"oAP": "/assets/projects/tecnico-mobile/tecnico-mobile-home.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/assets/projects/university-website/university-website-1.jpg": {
 		"ft": 16384,
 		"iS": 2646502,
@@ -392,17 +298,6 @@
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"/assets/projects/university-website/university-website-1.png": {
-		"ft": 32768,
-		"iS": 4182129,
-		"oA": 0,
-		"oAP": "/assets/projects/university-website/university-website-1.png",
-		"oF": 1,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
 		"q": 100
 		},
 	"/assets/projects/university-website/university-website-2.jpg": {
@@ -416,17 +311,6 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/assets/projects/university-website/university-website-2.png": {
-		"ft": 32768,
-		"iS": 1520700,
-		"oA": 0,
-		"oAP": "/assets/projects/university-website/university-website-2.png",
-		"oF": 1,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/assets/projects/university-website/university-website-3.jpg": {
 		"ft": 16384,
 		"iS": 4255660,
@@ -438,15 +322,15 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/assets/projects/university-website/university-website-3.png": {
-		"ft": 32768,
-		"iS": 4927369,
+	"/assets/projects/university-website/university-website-hero-optim.jpg": {
+		"ft": 16384,
+		"iS": 575653,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/projects/university-website/university-website-3.png",
+		"oAP": "/assets/projects/university-website/university-website-hero-optim.jpg",
 		"oF": 0,
-		"oIPL": 1,
+		"oIPL": 0,
 		"opt": 1,
-		"oT": 1,
 		"q": 100
 		},
 	"/assets/projects/university-website/university-website-hero.jpg": {
@@ -460,15 +344,15 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/assets/projects/university-website/university-website-hero.png": {
-		"ft": 32768,
-		"iS": 2471962,
+	"/assets/projects/university-website/university-website-home-optim.jpg": {
+		"ft": 16384,
+		"iS": 358798,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/projects/university-website/university-website-hero.png",
-		"oF": 1,
-		"oIPL": 1,
+		"oAP": "/assets/projects/university-website/university-website-home-optim.jpg",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
-		"oT": 1,
 		"q": 100
 		},
 	"/assets/projects/university-website/university-website-home.jpg": {
@@ -480,17 +364,6 @@
 		"oF": 1,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"/assets/projects/university-website/university-website-home.png": {
-		"ft": 32768,
-		"iS": 999221,
-		"oA": 0,
-		"oAP": "/assets/projects/university-website/university-website-home.png",
-		"oF": 1,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
 		"q": 100
 		},
 	"/assets/social/og.jpg": {
@@ -633,6 +506,25 @@
 		"oA": 0,
 		"oAP": "/docs/sandro-fernandes-cv-light-2019.pdf",
 		"oF": 0
+		},
+	"/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/favicon.ico",
+		"oF": 0
+		},
+	"/favicon.png": {
+		"ft": 32768,
+		"iS": 14943,
+		"oA": 0,
+		"oAP": "/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/index.html": {
 		"cB": 0,
