@@ -32,7 +32,7 @@
 
 
 	h2 {
-		font-size: 5vw;
+		// font-size: 5vw;
 	}
 
 	// project styles
@@ -45,12 +45,12 @@
 	// 800px / 50rem
 
 	h2 {
-		font-size: 3.2vw;
+		// font-size: 3.2vw;
 	}
 
-	.media-title {
-		padding: 3.2rem;
-	}
+	// .media-title {
+	// 	padding: 4rem;
+	// }
 
 	.media-heading {
 		font-size: 2.4rem;
@@ -118,6 +118,14 @@
 @media (min-width: 1080px) {
 	// 1024px / 64rem
 
+
+
+
+}
+
+@media (min-width: 1200px) {
+	// 1200px / 75rem
+
 	.logo {
 		font-size: 2.2rem;
 	}
@@ -128,7 +136,7 @@
 
 
 	.media-title {
-		padding: 4rem;
+		padding: 4.4rem;
 	}
 
 	.media-heading {
@@ -138,9 +146,6 @@
 	.grid-padded {
 		padding: 0 4rem;
 	}
-
-	// project styles
-	// ...
 
 	.grid-container {
 		max-width: 84vw;
@@ -160,24 +165,13 @@
 		font-size: 6.4vw;
 	}
 
-	h2 {
-		font-size: 5vw;
-	}
-
 	.heading-three {
 		margin-bottom: 7.2rem;
 	}
 
-
-}
-
-@media (min-width: 1200px) {
-	// 1200px / 75rem
-
-
 	h2 {
 		// font-size: 3vw;
-		font-size: 2.5vw;
+		// font-size: 2.5vw;
 	}
 
 	.description {

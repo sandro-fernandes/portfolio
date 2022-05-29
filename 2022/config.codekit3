@@ -183,6 +183,116 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/assets/projects/mybmw-mini/bmw-profile.jpg": {
+		"ft": 16384,
+		"iS": 178999,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/projects/mybmw-mini/bmw-profile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/assets/projects/mybmw-mini/bmw-vehicle.jpg": {
+		"ft": 16384,
+		"iS": 204005,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/projects/mybmw-mini/bmw-vehicle.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/projects/mybmw-mini/library-components.jpg": {
+		"ft": 16384,
+		"iS": 326632,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/projects/mybmw-mini/library-components.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/assets/projects/mybmw-mini/mini-profile.jpg": {
+		"ft": 16384,
+		"iS": 180030,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/projects/mybmw-mini/mini-profile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/assets/projects/mybmw-mini/mini-type-2.jpg": {
+		"ft": 16384,
+		"iS": 277461,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/projects/mybmw-mini/mini-type-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/assets/projects/mybmw-mini/mini-type-3.jpg": {
+		"ft": 16384,
+		"iS": 216615,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/projects/mybmw-mini/mini-type-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/assets/projects/mybmw-mini/mini-type-3.png": {
+		"ft": 32768,
+		"iS": 545078,
+		"oA": 0,
+		"oAP": "/assets/projects/mybmw-mini/mini-type-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/projects/mybmw-mini/mini-type.jpg": {
+		"ft": 16384,
+		"iS": 231736,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/projects/mybmw-mini/mini-type.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/projects/mybmw-mini/mini-vehicle.jpg": {
+		"ft": 16384,
+		"iS": 188484,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/projects/mybmw-mini/mini-vehicle.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/projects/mybmw-mini/mybmw-mini-hero-2.jpg": {
+		"ft": 16384,
+		"iS": 339958,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/projects/mybmw-mini/mybmw-mini-hero-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/assets/projects/mybmw-mini/mybmw-mini-hero.jpg": {
 		"ft": 16384,
 		"iS": 314236,
@@ -229,7 +339,7 @@
 		},
 	"/assets/projects/siga-system/siga-system-2.jpg": {
 		"ft": 16384,
-		"iS": 193120,
+		"iS": 1046046,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/projects/siga-system/.siga-system-2~imageoptim.jpg",
