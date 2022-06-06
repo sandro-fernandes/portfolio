@@ -73,6 +73,17 @@
 		"oAP": "/assets/fonts/space-grotesk-v10-latin-regular.woff2",
 		"oF": 0
 		},
+	"/assets/projects/connect-home.jpg": {
+		"ft": 16384,
+		"iS": 223509,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/projects/connect-home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/assets/projects/connect/connect-1.jpg": {
 		"ft": 16384,
 		"iS": 293696,
@@ -128,56 +139,34 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/projects/masonry-item-five.jpg": {
+	"/assets/projects/mybmw-mini-home.jpg": {
 		"ft": 16384,
-		"iS": 991433,
+		"iS": 672072,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/projects/masonry-item-five.jpg",
+		"oAP": "/assets/projects/mybmw-mini-home.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
-	"/assets/projects/masonry-item-four.jpg": {
+	"/assets/projects/mybmw-mini/bmw-icons.jpg": {
 		"ft": 16384,
-		"iS": 223509,
+		"iS": 307497,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/projects/masonry-item-four.jpg",
+		"oAP": "/assets/projects/mybmw-mini/bmw-icons.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
-	"/assets/projects/masonry-item-one.jpg": {
+	"/assets/projects/mybmw-mini/bmw-map.jpg": {
 		"ft": 16384,
-		"iS": 832742,
+		"iS": 469640,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/projects/masonry-item-one.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/projects/masonry-item-three.jpg": {
-		"ft": 16384,
-		"iS": 355498,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/projects/masonry-item-three.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/projects/masonry-item-two.jpg": {
-		"ft": 16384,
-		"iS": 683103,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/projects/masonry-item-two.jpg",
+		"oAP": "/assets/projects/mybmw-mini/bmw-map.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -194,6 +183,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/assets/projects/mybmw-mini/bmw-type.jpg": {
+		"ft": 16384,
+		"iS": 311247,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/projects/mybmw-mini/bmw-type.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/projects/mybmw-mini/bmw-vehicle.jpg": {
 		"ft": 16384,
 		"iS": 204005,
@@ -202,7 +202,7 @@
 		"oAP": "/assets/projects/mybmw-mini/bmw-vehicle.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/projects/mybmw-mini/library-components.jpg": {
@@ -211,6 +211,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/projects/mybmw-mini/library-components.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/assets/projects/mybmw-mini/mini-map.jpg": {
+		"ft": 16384,
+		"iS": 546599,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/projects/mybmw-mini/mini-map.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -225,39 +236,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"/assets/projects/mybmw-mini/mini-type-2.jpg": {
-		"ft": 16384,
-		"iS": 277461,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/projects/mybmw-mini/mini-type-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/projects/mybmw-mini/mini-type-3.jpg": {
-		"ft": 16384,
-		"iS": 216615,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/projects/mybmw-mini/mini-type-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/assets/projects/mybmw-mini/mini-type-3.png": {
-		"ft": 32768,
-		"iS": 545078,
-		"oA": 0,
-		"oAP": "/assets/projects/mybmw-mini/mini-type-3.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"/assets/projects/mybmw-mini/mini-type.jpg": {
@@ -279,23 +257,12 @@
 		"oAP": "/assets/projects/mybmw-mini/mini-vehicle.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/projects/mybmw-mini/mybmw-mini-hero-2.jpg": {
-		"ft": 16384,
-		"iS": 339958,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/projects/mybmw-mini/mybmw-mini-hero-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
 	"/assets/projects/mybmw-mini/mybmw-mini-hero.jpg": {
 		"ft": 16384,
-		"iS": 314236,
+		"iS": 339958,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/projects/mybmw-mini/mybmw-mini-hero.jpg",
@@ -304,26 +271,15 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/assets/projects/mybmw-mini/mybmw-mini-home.jpg": {
+	"/assets/projects/siga-home.jpg": {
 		"ft": 16384,
-		"iS": 186772,
+		"iS": 683103,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/projects/mybmw-mini/mybmw-mini-home.jpg",
+		"oAP": "/assets/projects/siga-home.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/projects/mybmw-mini/mybmw-mini-home2.jpg": {
-		"ft": 16384,
-		"iS": 173244,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/projects/mybmw-mini/mybmw-mini-home2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/projects/siga-system/siga-system-1.jpg": {
@@ -412,6 +368,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/assets/projects/tecnico-mobile-home.jpg": {
+		"ft": 16384,
+		"iS": 991433,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/projects/tecnico-mobile-home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/projects/tecnico-mobile/tecnico-mobile-1.jpg": {
@@ -535,6 +502,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/projects/university-portal-home.jpg": {
+		"ft": 16384,
+		"iS": 355498,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/projects/university-portal-home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/assets/projects/university-website/university-website-1-bkp.jpg": {
 		"ft": 16384,
 		"iS": 4293269,
@@ -598,7 +576,7 @@
 		"oAP": "/assets/projects/university-website/university-website-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/assets/projects/university-website/university-website-hero-optim.jpg": {
