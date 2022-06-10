@@ -25,6 +25,17 @@
 		"oAP": "/404.min.html",
 		"oF": 0
 		},
+	"/app-icon.png": {
+		"ft": 32768,
+		"iS": 29176,
+		"oA": 0,
+		"oAP": "/app-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/assets/fonts/space-grotesk-v10-latin-600.woff": {
 		"cB": 0,
 		"ft": 8192,
@@ -97,7 +108,7 @@
 		},
 	"/assets/projects/connect/connect-2.jpg": {
 		"ft": 16384,
-		"iS": 369197,
+		"iS": 413712,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/projects/connect/connect-2.jpg",
@@ -240,7 +251,7 @@
 		},
 	"/assets/projects/mybmw-mini/mini-type.jpg": {
 		"ft": 16384,
-		"iS": 231736,
+		"iS": 159735,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/projects/mybmw-mini/mini-type.jpg",
@@ -295,7 +306,7 @@
 		},
 	"/assets/projects/siga-system/siga-system-2.jpg": {
 		"ft": 16384,
-		"iS": 1046046,
+		"iS": 193120,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/projects/siga-system/.siga-system-2~imageoptim.jpg",
@@ -629,8 +640,8 @@
 		"oA": 0,
 		"oAP": "/assets/social/email-social-share.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -642,16 +653,8 @@
 		"oAP": "/assets/social/og.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
-		},
-	"/assets/social/og.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/social/og.psd",
-		"oF": 0
 		},
 	"/assets/social/portfolio-social-share.png": {
 		"ft": 32768,
@@ -659,8 +662,8 @@
 		"oA": 0,
 		"oAP": "/assets/social/portfolio-social-share.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -670,97 +673,9 @@
 		"oA": 0,
 		"oAP": "/assets/social/resume-social-share.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
-		"q": 100
-		},
-	"/assets/unused/img-1.png": {
-		"ft": 32768,
-		"iS": 790023,
-		"oA": 0,
-		"oAP": "/assets/unused/img-1.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/assets/unused/img-2.png": {
-		"ft": 32768,
-		"iS": 481959,
-		"oA": 0,
-		"oAP": "/assets/unused/img-2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/assets/unused/img-3.png": {
-		"ft": 32768,
-		"iS": 550036,
-		"oA": 0,
-		"oAP": "/assets/unused/img-3.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/assets/unused/img-4.png": {
-		"ft": 32768,
-		"iS": 875415,
-		"oA": 0,
-		"oAP": "/assets/unused/img-4.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/assets/unused/tecnico-id.jpg": {
-		"ft": 16384,
-		"iS": 161420,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/unused/tecnico-id.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/unused/tecnico-mobile.jpg": {
-		"ft": 16384,
-		"iS": 450578,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/unused/tecnico-mobile.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/unused/tecnico-newsletter.jpg": {
-		"ft": 16384,
-		"iS": 267762,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/unused/tecnico-newsletter.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/unused/tecnico-web-portal.jpg": {
-		"ft": 16384,
-		"iS": 164580,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/unused/tecnico-web-portal.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"/css/style.css": {
@@ -804,6 +719,25 @@
 		"oA": 0,
 		"oAP": "/docs/sandro-fernandes-resume.pdf",
 		"oF": 0
+		},
+	"/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/favicon.ico",
+		"oF": 0
+		},
+	"/favicon.png": {
+		"ft": 32768,
+		"iS": 11324,
+		"oA": 0,
+		"oAP": "/favicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/index.html": {
 		"cB": 0,

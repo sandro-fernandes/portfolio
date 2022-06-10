@@ -138,7 +138,8 @@ p + p {
 	margin-top: 3.2rem;
 }
 
-a {
+a,
+abbr {
 	text-decoration: none;
 	color: var(--txt-color);
 }
@@ -225,8 +226,12 @@ img {
 	z-index: 1;
 }
 
-.media-heading.dark {
+.media-heading--dark {
 	color: var(--dark);
+}
+
+.media-heading--light {
+	color: var(--light);
 }
 
 .media-container {
@@ -287,7 +292,7 @@ img {
 }
 
 .media-link:hover .featured-img {
-		transform: scale(0.99);
+		transform: translateY(0.4rem);
 		transform-origin: bottom right;
 }
 
