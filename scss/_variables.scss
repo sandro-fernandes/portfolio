@@ -1,43 +1,73 @@
-// Variables
+// CSS variables
 
+// Default color variables (dark mode)
+:root {
+
+  --light: #FFF;
+  --dark: #000;
+
+  --blue: #1750EE;
+
+
+  --bg-color: #000;
+  --txt-color: #FFF;
+
+  --grid-gap: 3.2rem;
+  --container-padding: 3.2rem;
+  --border-radius: 1.6rem;
+}
 
 // Colors =============================
+.txt-color {
+	stop-color: var(--txt-color);
+}
 
-$red: #FF0A4B;
-$blue: #4816FF;
-
+$blue: var(--blue);
 $primary: $blue;
 
-// Fonts sizes ========================
+// Fonts ========================
 // $font-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 $font-serif: georgia,times,serif;
 $font-sans: 'helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
 
+/* space-grotesk-regular - latin */
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../assets/fonts/space-grotesk-v10-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../assets/fonts/space-grotesk-v10-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* space-grotesk-600 - latin */
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 600;
+  src: local(''),
+       url('../assets/fonts/space-grotesk-v10-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../assets/fonts/space-grotesk-v10-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* space-grotesk-700 - latin */
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+       url('../assets/fonts/space-grotesk-v10-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../assets/fonts/space-grotesk-v10-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+$font-grotesk: 'Space Grotesk','helvetica neue',helvetica,ubuntu,roboto,noto,'segoe ui',arial,sans-serif;
+
+
 
 // Fold H1
-$fold-headline: 9vw;
+// $fold-headline: 9vw;
+$fold-headline: 7vw;
+$fold-headline: 8.8vw;
 $fold-headline--sm: 5.6vw;
 $fold-headline--md: 4.5vw;
 $fold-headline--lg: 4.5rem;
 $fold-headline--xl: 4rem;
 
-
-// // Standard H1
-// $h1: $fold-headline / 2;
-// $h1--sm: $fold-headline--sm / 2;
-// $h1--md: $fold-headline--md / 2;
-// $h1--lg: $fold-headline--lg / 2;
-
-
-// // Standard H2
-// $h2: $fold-headline / 1.4;
-// $h2--sm: $fold-headline--sm / 1.4;
-// $h2--md: $fold-headline--md / 1.4;
-// $h2--lg: $fold-headline--lg / 1.4;
-
-
-// // Standard p
-// $p: $fold-headline / 2;
-// $p--sm: $fold-headline--sm / 2.2;
-// $p--md: $fold-headline--md / 2.2;
-// $p--lg: $fold-headline--lg / 2.2;

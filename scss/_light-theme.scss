@@ -1,0 +1,15 @@
+//
+
+@media (prefers-color-scheme: light) {
+	:root {
+
+		--bg-color: #FFF;
+  	--txt-color: #000;
+
+	}
+
+	.headline {
+		-webkit-text-stroke: 0.1rem var(--txt-color);
+	}
+
+}
