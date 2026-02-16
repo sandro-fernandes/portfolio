@@ -1,0 +1,9 @@
+[build]
+  publish = "."
+  command = "# no build needed"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+[[plugins]]
+  package = "@netlify/plugin-lighthouse"
